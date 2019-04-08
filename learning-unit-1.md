@@ -40,7 +40,7 @@ References should be accurately tracked throughout the research process. Use a c
 
 Its important that you use a reference manager, for example, [Mendeley](https://www.mendeley.com), to improve your collection of resources for your research. A feature-rich reference manager can help reduce errors, ensure you properly reference and automate the collection of citations.
 
-#### Suggested citation styles for the School of Computing: 
+#### Suggested citation styles for the School of Computing:
 
 The School of Computing is not specific about the referencing style as long as you're consistent with your choice.
 
@@ -48,5 +48,5 @@ The School of Computing is not specific about the referencing style as long as y
 2. Harvard 
 3. APA American Psychological Association \(6th ed\).
 
-
+I intend to use the APA American Psychological Association \(6th ed\) as its default selection on Mendeley.
 
