@@ -36,7 +36,9 @@ References should be accurately tracked throughout the research process. Use a c
 * Locate the original work easily and provide protection against plagirism claims.
 * Demonstrates how you built upon previous research.
 
+#### Citation and reference managers
 
+Its important that you use a reference manager, like Mendeley, to improve your collection of resources for your research. A feature-rich reference manager can help reduce errors, ensure you properly reference and automate the collection of citations.
 
 
 
