@@ -48,5 +48,5 @@ The School of Computing is not specific about the referencing style as long as y
 2. Harvard 
 3. APA American Psychological Association \(6th ed\).
 
-I intend to use the APA American Psychological Association \(6th ed\) as its default selection on Mendeley.
+I intend to use the APA American Psychological Association \(6th ed\) as its the default selection on Mendeley.
 
