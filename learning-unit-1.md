@@ -38,7 +38,15 @@ References should be accurately tracked throughout the research process. Use a c
 
 #### Citation and reference managers
 
-Its important that you use a reference manager, like Mendeley, to improve your collection of resources for your research. A feature-rich reference manager can help reduce errors, ensure you properly reference and automate the collection of citations.
+Its important that you use a reference manager, for example, [Mendeley](https://www.mendeley.com), to improve your collection of resources for your research. A feature-rich reference manager can help reduce errors, ensure you properly reference and automate the collection of citations.
+
+#### Suggested citation styles for the School of Computing: 
+
+The School of Computing is not specific about the referencing style as long as you're consistent with your choice.
+
+1. Harvard British Standard BS ISO 690 
+2. Harvard 
+3. APA American Psychological Association \(6th ed\).
 
 
 
