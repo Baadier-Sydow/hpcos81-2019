@@ -52,5 +52,5 @@ The course recommends using the Harvard referencing style. The default on Mendel
 
 Ensure that you double check the references that are produced and that you indicate within your research the referencing style that you use.
 
-NB UNISA uses Turn-It-In to check for proper citation and to protect against plagirism.
+NB UNISA uses Turn-It-In to check for proper citation and to protect against plagiarism.
 
