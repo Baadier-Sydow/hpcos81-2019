@@ -1,3 +1,4 @@
-# My Awesome Book
+# UNISA HPCOS81 2019
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+My notes and study material for the prerequsitie research course for UNISA's honour's project.
+
